@@ -1,0 +1,56 @@
+.container5{
+    width: 100%;
+    height: 500px;
+    background-color: rgba(79, 20, 228, 0.964);
+}
+.set{
+    width: 80%;
+    height: 480px;
+    border: 2px solid red;
+    margin: 0 auto;
+    background-color: aqua;
+}
+.setleft{
+    width: 40%;
+    height: 450px;
+    border: 2px solid black; 
+    float:left;
+}
+.set1{
+    text-align: right;
+
+    border: 2px solid black; 
+    width: 100%;
+    height: 150px;
+    font-size: 40px;
+    font-family: cursive;
+    float: right;
+    margin-top: 90px;
+}
+.set2{
+    float: right;
+    width: 140px;
+    height: 140px;
+    background-color: dimgray;
+    border-radius: 90px;
+    margin-bottom: 30px;
+}
+.set2:hover{
+    background-image: url('Shazim uddin pp image with stroke.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    transition: width 4s,height 6s;
+}
+.setright{
+    width: 50%;
+    height: 450px;
+    float: right;
+    border: 2px solid red;
+}
+.set3{
+    width: 100%;
+    height: 240px;
+    border: 2px solid red;
+}
